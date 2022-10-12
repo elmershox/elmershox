@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elmershox
-- 👀 I’m interested in Network Automation
+- 👀 I’m interested in Network Automation and Route Optimization
 - 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on Network Engineers
 - 📫 How to reach me email
